@@ -14,4 +14,7 @@ accountCity = "Beng"
 console.log(accountEmail)
 console.table([accountId,accountEmail,accountPassword,accountCity])
 
-
+/*
+dont use var
+will create problem
+*/
